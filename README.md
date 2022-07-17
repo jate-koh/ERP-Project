@@ -1,2 +1,2 @@
-# ERP-Project
-Create and implement webserver.
+# ERP Project
+Create and implement webserver on Scispec Server
